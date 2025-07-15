@@ -5,7 +5,7 @@ EatPay（イートペイ）
 EatPayは、飲食店向けの簡単キャッシュレス支払いアプリです。
 
 ## デモ
-![スクショ](C:\Users\user\EatPay\src\public\img\ssimg.png)
+![スクリーンショット](C:\Users\user\EatPay\src\public\img\SSimg.PNG)
 
 ## ディレクトリ構成
 ```
@@ -23,4 +23,4 @@ EATPAY/
 ├-vendor
 ```
 ## 作者
-- Mitsuhiko-funayama（[@yourname](https://github.com/Mitsuhiko-funayama)）
+- （[@Mitsuhiko-funayama](https://github.com/Mitsuhiko-funayama)）
