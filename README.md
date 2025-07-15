@@ -23,4 +23,4 @@ EATPAY/
 ├-vendor
 ```
 ## 作者
-- （[@Mitsuhiko-funayama](https://github.com/Mitsuhiko-funayama)）
+- 舩山 光彦（[@Mitsuhiko-funayama](https://github.com/Mitsuhiko-funayama)）
