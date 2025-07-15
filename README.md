@@ -22,4 +22,4 @@ EATPAY/
 |--vendor
 
 ## 作者
-- Mitsuhiko-funayama（[@yourname]()）
+- Mitsuhiko-funayama（[@yourname](https://github.com/Mitsuhiko-funayama)）
