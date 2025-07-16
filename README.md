@@ -6,7 +6,7 @@ EatPayは、飲食店向での簡単キャッシュレス支払いアプリで�
 支払いをスマートにしたいと思い制作しました。
 
 ## デモ
-![スクリーンショット](https://github.com/Mitsuhiko-funayama/EatPay/blob/main/src/public/img/SSimg.PNG?raw=true)
+![スクリーンショット](https://github.com/Mitsuhiko-funayama/EatPay/blob/main/src/public/img/SSimg.png?raw=true)
 
 ## ディレクトリ構成
 ```
