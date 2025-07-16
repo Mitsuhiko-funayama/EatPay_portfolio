@@ -2,10 +2,11 @@
 EatPay（イートペイ）
 
 ## 概要
-EatPayは、飲食店向けの簡単キャッシュレス支払いアプリです。
+EatPayは、飲食店向での簡単キャッシュレス支払いアプリです。
+支払いをスマートにしたいと思い制作しました。
 
 ## デモ
-![スクリーンショット](C:\Users\user\EatPay\src\public\img\SSimg.PNG)
+![スクリーンショット](src/public/img/SSimg.PNG)
 
 ## ディレクトリ構成
 ```
