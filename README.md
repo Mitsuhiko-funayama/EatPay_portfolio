@@ -8,6 +8,15 @@ EatPayは、飲食店向での簡単キャッシュレス支払いアプリで�
 ## デモ
 ![スクリーンショット](src/public/img/SSimg.png)
 
+## 使用技術
+- Laravel 
+- Javascript 
+- qrcodejs 
+- API連携 
+- Ajax 
+- HTML/Css 
+- MySQL
+
 ## ディレクトリ構成
 ```
 EATPAY/
